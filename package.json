@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^10.7.0",
+    "cypress-image-diff-js": "^1.21.1"
+  },
+  "scripts": {
+    "cy:open": "./node_modules/.bin/cypress open"
+  },
+  "dependencies": {
+    "cypress-image-snapshot": "^4.0.1"
+  }
+}
